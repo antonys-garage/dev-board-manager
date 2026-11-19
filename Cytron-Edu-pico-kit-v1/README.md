@@ -3,7 +3,7 @@
 CircuitPython demo code for the **EDU PICO V1** board running a **Raspberry Pi Pico 2 W**.
 
 <p align="center">
-  <img src="docs/edu-pico-v1-board.png" alt="EDU PICO V1 board, top view" width="500">
+  <img src="https://raw.githubusercontent.com/CytronTechnologies/Cytron-EDU-PICO/main/images/edu-pico-top-800x800.png" alt="EDU PICO V1 board, top view" width="500">
 </p>
 <p align="center"><em>EDU PICO V1 board (image: Cytron Technologies)</em></p>
 
